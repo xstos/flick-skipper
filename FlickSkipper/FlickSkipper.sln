@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickSkipper", "FlickSkipper.csproj", "{BFB85884-B28B-4D10-B2C5-2B83FFC7611A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB85884-B28B-4D10-B2C5-2B83FFC7611A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB85884-B28B-4D10-B2C5-2B83FFC7611A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB85884-B28B-4D10-B2C5-2B83FFC7611A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB85884-B28B-4D10-B2C5-2B83FFC7611A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B52E6CC-B3EA-49CD-B20A-CBD37E30DC87}
+	EndGlobalSection
+EndGlobal
