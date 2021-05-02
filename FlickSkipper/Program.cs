@@ -15,6 +15,7 @@ namespace FlickSkipper
         [STAThread]
         static void Main(string[] args)
         {
+            Loader.Index();
             var app = BuildApp();
             app.Run(app.MainWindow);
         }
